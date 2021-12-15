@@ -61,3 +61,6 @@ venv
 
 # media path
 path/
+
+# databases
+*.db
